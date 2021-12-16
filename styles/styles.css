@@ -199,7 +199,7 @@ p::first-letter {color: #daa520;
 @media only screen and (max-width:650px) {
     /* Estilo general */
     #container {width: 93%;}
-    .h1-container {width: 55%;}
+    .h1-container {width: 60%;}
 
     /* Hero section */
     #hero h1 {left: 3%;
